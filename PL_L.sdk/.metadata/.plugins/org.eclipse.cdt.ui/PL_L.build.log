@@ -1,0 +1,8 @@
+17:05:17 **** Incremental Build of configuration Debug for project PL_L ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: 'main-build' に対して行うべき事はありません.
+
+17:05:17 Build Finished (took 65ms)
+
